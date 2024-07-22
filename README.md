@@ -13,3 +13,12 @@ Tools used:
 1) python
 2) Excel
 3) Powerbi
+
+# objectives
+1)	Reducing stockouts and the need for discounts: Retail analytics helps users understand demand trends so they can have enough product on hand, but not so much that they resort to steep discounts to get rid of excess inventory. For example, analytics can help determine how quickly demand falls for fashion items that are driven by the popularity of social influencers.
+
+2)	Improving personalization: Analytics helps retailers understand their customers’ preferences and thus capture more demand than their competitors. For example, using purchasing history, a book retailer can alert customers who have shown interest in American history when a new book by historian Ron Chernow becomes available for preorder.
+
+3)	Improving pricing decisions: Data analytics can help retailers set the optimal prices for their goods by synthesizing a variety of factors, including abandoned shopping carts, competitive pricing information, and the cost of goods sold. Retailers can thus maximize profits by avoiding setting prices higher than the market will bear or lower than what customers would be willing to pay.
+
+4) Improving product allocations: Analytics can help retailers decide how to allocate products in different geographic regions, distribution centers, and stores, reducing needless transportation costs. For instance, a sports apparel retailer can use analytics to see that even a two-degree difference in temperature affects sales of thermal undershirts and can allocate more of those items to a distribution center closest to areas projected to have colder temperatures in a given winter.
