@@ -24,4 +24,5 @@ Tools used:
 
 4) Improving product allocations: Analytics can help retailers decide how to allocate products in different geographic regions, distribution centers, and stores, reducing needless transportation costs. For instance, a sports apparel retailer can use analytics to see that even a two-degree difference in temperature affects sales of thermal undershirts and can allocate more of those items to a distribution center closest to areas projected to have colder temperatures in a given winter.
 # Snap Shot
-![image](https://github.com/user-attachments/assets/8f301d9a-6f7e-44e4-a498-367ed6525f2f)
+![image](https://github.com/user-attachments/assets/1c864842-0097-425f-8934-40c4f403234a)
+
